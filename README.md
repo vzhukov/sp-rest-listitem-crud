@@ -23,3 +23,19 @@ CRUD operations for list item
 * [Multi Choice](multi-choice.js)
 * [Single Lookup/User](single-lookup.js)
 * [Multi Lookup/User](multi-lookup.js)
+
+
+### Part 2
+[http://blog.vitalyzhukov.ru/en/sharepoint-list-rest-api-crud-part-2](http://blog.vitalyzhukov.ru/en/sharepoint-list-rest-api-crud-part-2)
+
+#### Field Types:
+* Hyperlink ot Image
+* DateTime
+* Metadata (single value)
+* Metadata (multi value)
+
+#### JS code:
+* [Hyperlink ot Image](hyperlink.js)
+* [DateTime](datetime.js)
+* [Single Metadata](taxonomy-single.js)
+* [Multi Metadata](taxonomy-multi.js)
